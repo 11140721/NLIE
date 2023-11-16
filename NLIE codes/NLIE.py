@@ -1,4 +1,3 @@
-from H import getH     #
 import networkx as nx
 from pylab import *
 from C import getC         #
